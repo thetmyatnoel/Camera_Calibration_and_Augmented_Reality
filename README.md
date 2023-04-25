@@ -39,3 +39,15 @@ This program is based on the OpenCV library and its functions for camera calibra
  [0.00000000e+00, 0.00000000e+00, 1.00000000e+00]]
 * Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 3.37401908e-01, -2.22725768e+00,  1.79713514e-03, -7.08231523e-04,
   4.80412419e+00]
+
+
+https://user-images.githubusercontent.com/126442096/234233403-9f644b24-7ce8-4d5e-a43d-4dbb4bd2d225.mp4
+
+## PnP and AR Test
+
+
+https://user-images.githubusercontent.com/126442096/234233576-5a820291-8af6-45a2-be6d-a43276cce165.mp4
+
+
+
+
